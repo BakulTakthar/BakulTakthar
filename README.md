@@ -19,7 +19,6 @@
 
 - 📫 How to reach me **bakul184bsingh@gmail.com**
 
-- ⚡ Fun fact **I have been learning over 5 different hobbies and have reached intermediate level in all of them**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
