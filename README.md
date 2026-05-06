@@ -9,7 +9,7 @@
 
 - ➕ Fractals [SIERPINSKI-TRIANGLE-USING-PYTHON](https://github.com/BakulTakthar/SIERPINSKI-TRIANGLE-USING-PYTHON)
 
-- 🌱 I’m currently learning **Python, Physics, KaTex, Mathematics**
+- 🌱 I’m currently learning **Python, Physics, LaTeX, AI, JAX and Mathematics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BakulTakthar](https://github.com/BakulTakthar)
 
